@@ -144,6 +144,8 @@ The goal is to uncover key trends and insights from the dataset using Python and
 
 **Author:** Bhuvaneshwari L
 📧 Email: lbhuvaneshwari729@gmail.com
+
 🌐 LinkedIn: https://www.linkedin.com/in/bhuvaneshwaril/
+
 💻 GitHub: (https://github.com/bhuvaneshwari-99)
 
